@@ -3,7 +3,7 @@
 > OmniTip is a decentralized universal payment and tip jar powered by NEAR Intents, Chain Signatures, and HOT Wallet.
 
 ## Overview
-OmniTip is built to empower people, simplify real-world economic activities, and make transactions seamless. It enables content creators, developers, and everyday users to receive tips and payments across multiple blockchains (NEAR, Ethereum, Solana, Bitcoin) without requiring supporters to manually swap tokens or acquire native NEAR gas first.
+OmniTip is built to empower people, simplify real-world economic activities, and make transactions seamless. It enables content creators, developers, and everyday users to receive tips and payments across multiple blockchains (NEAR, Ethereum, Solana, Bitcoin) without requiring supporters to manually swap tokens or acquire native gas.
 
 ## Backend & Technical Architecture
 OmniTip leverages cutting-edge NEAR ecosystem primitives to handle cross-chain state and settlement seamlessly:
